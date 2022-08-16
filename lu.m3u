@@ -26,6 +26,7 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF: -1 ,RTP
  TVhttp://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
 
+
 #EXTINF: -1 ,HISTORY CHANNEL
 https://stationtv.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF: -1 ,DISCOVERY CHANNEL
@@ -58,6 +59,5 @@ https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_
 https://stationtv.cdn.rcs.net.ar/mnp/cnn_hls/track_0_500/playlist.m3u8
 #EXTINF: -1 ,FOX SPORT3
 https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/track_1_500/playlist.m3u8
-
 
 

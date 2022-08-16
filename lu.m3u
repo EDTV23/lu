@@ -23,10 +23,8 @@ https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1647283255.m3u8
 #EXTINF: -1 ,BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF: -1 ,RTP
- TVhttp://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
-
-
+#EXTINF: -1 ,RTP TV
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
 #EXTINF: -1 ,HISTORY CHANNEL
 https://stationtv.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF: -1 ,DISCOVERY CHANNEL

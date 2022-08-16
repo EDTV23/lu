@@ -29,34 +29,43 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
 #EXTINF: -1 ,HISTORY CHANNEL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=NiJhP07WTbRnmD3CGwA1rw&expires=1660703698&ip=181.115.167.229
 #EXTINF: -1 ,DISCOVERY CHANNEL
-https://stationtv.cdn.rcs.net.ar/mnp/discovery_hls/track_1_500/playlist.m3u8
-#EXTINF: -1 ,SMITHSONIANAUS CHANNEL 
-https://smithsonianaus-samsungau.amagi.tv/playlist360p.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=fc1bhalQMCIAOAFVFF3PxA&expires=1660704339&ip=181.115.167.229
+#EXTINF: -1 ,NATIONAL GEOGRA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=v3A4wDenb4GoL-j6xvFGYg&expires=1660704519&ip=181.115.167.229
 #EXTINF: -1 ,DISCOVERY TURBO 
-https://stationtv.cdn.rcs.net.ar/mnp/dsc_turbo_hls/track_1_500/playlist.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=DRfWOBHgTB4OwI9NY1pkfg&expires=1660704632&ip=181.115.167.229
 #EXTINF: -1 ,DISCOVERY TLC
-https://stationtv.cdn.rcs.net.ar/mnp/dsc_tlc_hls/track_1_500/playlist.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=Un7EK9XFZhbhNY3vntJ3gQ&expires=1660704707&ip=181.115.167.229
 #EXTINF: -1 ,HISTORY 2
-https://stationtv.cdn.rcs.net.ar/mnp/h2_hls/track_1_500/playlist.m3u8
-#EXTINF: -1 , UNIVERSAL TV
-https://stationtv.cdn.rcs.net.ar/mnp/universal_hls/track_1_500/playlist.m3u8
-#EXTINF: -1 ,PARAMOUNT
-https://stationtv.cdn.rcs.net.ar/mnp/paramount_hls/track_1_500/playlist.m3u8
-#EXTINF: -1 , COMEDIA CENTRAL 
-https://stationtv.cdn.rcs.net.ar/mnp/comedy_hls/track_1_500/playlist.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=4imlVLf_DJSls9bD6Z2Ntw&expires=1660704876&ip=181.115.167.229
+#EXTINF: -1 , DISCOVERY TREATER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=wEY8bC0jpNHWTwBzO03pRA&expires=1660705127&ip=181.115.167.229
+#EXTINF: -1 ,DISTRITO COMEDIA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/47_.m3u8?token=3fvpiG9SXrSLD941jzIQ9A&expires=1660705303&ip=181.115.167.229
+#EXTINF: -1 ,FOX SERIES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=iZ_qrq6hTMnxqz6oys0GpA&expires=1660705586&ip=181.115.167.229
+#EXTINF: -1 ,FOR PREMIUN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/138_.m3u8?token=HOQngKJ6JcR8W-Pmisz91w&expires=1660705698&ip=181.115.167.229
 #EXTINF: -1 ,WARNER TV
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_499712=5.m3u8
-#EXTINF: -1 ,DISNEY CHANNEL
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_499712=6.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/341_.m3u8?token=_4TiaVvdokdyMfJCZ0nrUQ&expires=1660705748&ip=181.115.167.229
+#EXTINF: -1 ,WARNER BROS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=uRhQP7kaTJo-SXYo5rVDuQ&expires=1660705983&ip=181.115.167.229
 #EXTINF: -1 ,CARTOON NETWORK 
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_499968=11.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=5xp89wzbQABwkhPBfIa0KA&expires=1660706049&ip=181.115.167.229
 #EXTINF: -1 ,TNT SERIES
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_499712=4.m3u8
-#EXTINF: -1 ,STAR CHANNEL
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_499712=6.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=nr-VbMS--0bsSwsS-pVeTQ&expires=1660706161&ip=181.115.167.229
+#EXTINF: -1 ,A&E CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=97F5yiY8ErLNSwBfQbW9Nw&expires=1660706353&ip=181.115.167.229
 #EXTINF: -1 ,CNN
-https://stationtv.cdn.rcs.net.ar/mnp/cnn_hls/track_0_500/playlist.m3u8
-#EXTINF: -1 ,FOX SPORT3
-https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/track_1_500/playlist.m3u8
-
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/66_.m3u8?token=eJICIcypBH-vLwntvCICLQ&expires=1660706424&ip=181.115.167.229
+#EXTINF: -1 ,FOX SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=XmWA0pRAHpht_BY11Q15TQ&expires=1660706561&ip=181.115.167.229
+#EXTINF: -1 ,ESPN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=qGKU_IFa3svuaI3PerMA6A&expires=1660706748&ip=181.115.167.229
+#EXTINF: -1 ,AMERICA TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=2IK6A-TDzY5TCw_1uR1mNA&expires=1660706867&ip=181.115.167.229
+#EXTINF: -1 ,AZTECA 7
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=Vrb4p3yd1Dl4ffP07O3RXQ&expires=1660706919&ip=181.115.167.229
+#EXTINF: -1 ,SOUTH PARK
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/146_.m3u8?token=vx0RzrDHxMl2KNxsMcpcPg&expires=1660707148&ip=181.115.167.229
 

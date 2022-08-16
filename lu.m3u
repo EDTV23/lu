@@ -2,21 +2,21 @@
 #EXTINF: -1 ,UNITEL LA PAZ
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZaX-bXdQ-2jkShS0oo5AdXCpIMs0-jUuoVKO-UGJ7Lou)/dm/3/x7vsfua/d/live-3.m3u8
 #EXTINF: -1 ,UNITEL SANTACRUZ
-https://stream03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcjUmSjw-qjFIIRrbxGdc1z0_JZsjIGMqN224D5_3t2t)/dm/3/x7vsezg/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-OgtnP13t2rT69AEgfUKGpyT3PSwshYXBT4cgaOiD9g)/dm/3/x7wzxiw/s/live-3.m3u8
 #EXTINF: -1 ,UNITEL COCHABAMBA
 https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNATC2RtqMyP9X1EyizJv-rGcpUOl0IWrIYgeuna2-hH)/dm/3/x7y922d/d/live-3.m3u8
 #EXTINF: -1 ,RED UNO LA PAZ
-https://stream03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjBYTnPtEq0tYWPrsxANLgGDh7Yl3chgTtzw2iFAlxOv)/dm/3/x828xvr/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh-kduhe0PX972J83cmIPOvPcXOYP0D6c_6kntYhHsLG)/dm/3/x825whp/d/live-2.m3u8
 #EXTINF: -1 ,RED UNO SANTA
-https://stream03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlrg41gVwoj4WFOpdsFMuVFF337YR7eTQUG-dpDFWuVs)/dm/3/x825whp/d/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh-kduhe0PX972J83cmIPOvPcXOYP0D6c_6kntYhHsLG)/dm/3/x825whp/d/live-2.m3u8
 #EXTINF: -1 ,RED UNO COCHABAMBA
-https://stream01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtTqmycAyY5KPAH9j1I6GDJzGe0ZbAbNVId2DbsLh9BB)/dm/3/x827j2y/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh-kduhe0PX972J83cmIPOvPcXOYP0D6c_6kntYhHsLG)/dm/3/x825whp/d/live-2.m3u8
 #EXTINF: -1 ,ATB LA PAZ
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOkomi54KvJxu0b5NBX94BCix-yU3w6p5DTp4gJxZqIlU)/dm/3/x84eirw/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsEIgGePxUuDO80eUnwECeVmSaFbwviJHvQg6qnG5JqE)/dm/3/x84eirw/d/live-3.m3u8
 #EXTINF: -1 ,ATB COCHABAMBA
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v6qg3PapPl3i_pVlEvICX8RUZKPbnyb_qeht7oG2E6Bz)/dm/3/x89sfvo/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v21oLhjPmuXjJF1cPNMS7-XXTYT2fPeFRKUbogrsAnk9)/dm/3/x89sfvo/s/live-1.m3u8
 #EXTINF: -1 ,ATB SANTA CRUZ
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqI6JofgSUD1863x2ZdD_DTdGA13OlAS97SAw6Ijww_C)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqX43qbNhJSab2qsiW8ODvxiNEXKDvShvrWjKTAjhDQ5)/dm/3/x84t82c/s/live-3.m3u8
 #EXTINF: -1 ,PAT
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 #EXTINF: -1 ,CADENA A
@@ -25,42 +25,39 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1647283255.
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF: -1 ,RTP
  TVhttp://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
-#EXTINF: -1 ,F10 TV
-https://video.live.com.bo:3253/multi_live/play.m3u8 
+
 #EXTINF: -1 ,HISTORY CHANNEL
-https://stationtv.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/history_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 ,DISCOVERY CHANNEL
-https://stationtv.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/discovery_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 ,SMITHSONIANAUS CHANNEL 
-https://smithsonianaus-samsungau.amagi.tv:443/playlist1080p.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist360p.m3u8
 #EXTINF: -1 ,DISCOVERY TURBO 
-https://stationtv.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_turbo_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 ,DISCOVERY TLC
-https://stationtv.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_tlc_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 ,HISTORY 2
-https://stationtv.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
-#EXTINF: -1 ,NAT GEO
-https://videoweaver.rio01.hls.ttvnw.net/v1/playlist/CpUF736EBlcPQeuz4FavP3o7hji0emZ6jf3c52lAGGGbRpmzKPiNYhBNEPW0bifBjZamd4HPSCTq9pQMEEZjZEbVkPLXNAfdUmxkTEnCrrlg8asP6mwBwuDTBk838E7onb2dmrEa6dM2BRok1QPAsVaaJ34Yla1Ztj5zDcfEnfLeK0WQnOTtwlFVrjcomvXk2Fm3haAJGSFI3O2KXrNVrS8BedVcrfdTbZV6e9cLuug6xGECip9bwLu9Qkvlrai9NGicn99vvWRDKXPEmQVC7nh-Zfkgv1atwasyPWjZmU_LJrxZ323QLHL9xKSjaH18lt70FUIG0lHTCUzKPA2ux--WS8b-eqJUIie1wZwr_yEGabo-ggqr49OoCrLsDTfCIq6QnMbs6pvrV1VC3u3mo2ZOQhIhdTsOPo3N9_luilzHHsv1AYdzVv94cpyiidzWiXYr8FIaznZnHcZfZriaOL1-GU3mNujQ94TCgKGgL870EPLdau9kpSxHNtmJSB01PJ9rZns6GnJALe6P_dubakzzwp0Mfhd2YhFufHlIccYoXiKj3qxtzTJB09np5dXASh9pHI4CzyrEHEq_6YvP7EClXLzQXL9Q-J-1ZOK1MZ2YYTM_nPG2Fppd-zBpJp01BOvWtEIs312IwtXYnujKcO8zGJ1lOS5wHCoJS9xmVXhXwAbo1KKP0b4swE_Tzf8qb3uUxOYqLt4dh9yMTM7XtfQ0vuYO-u8VcrhyjlxrRDLm75jpUD-46Mk4ewYw7CiSxeEFye2BLMlj1A5Y-Ghl_x2ugucjHi5qdT9OncBmEXZEvzoyf29p9xBmWaLvFmtpqhRZoWVE9Ks7P7-cidhDHitrMqA6LqJksxkrtFJUAuP2rHzctZCaUxoMaHdbO6CgONk5bH_AIAEqCWV1LXdlc3QtMjC4BA.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/h2_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 , UNIVERSAL TV
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/universal_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 ,PARAMOUNT
-https://stationtv.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/paramount_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 , COMEDIA CENTRAL 
-https://stationtv.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/comedy_hls/track_1_500/playlist.m3u8
 #EXTINF: -1 ,WARNER TV
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_499712=5.m3u8
 #EXTINF: -1 ,DISNEY CHANNEL
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_499712=6.m3u8
 #EXTINF: -1 ,CARTOON NETWORK 
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_499968=11.m3u8
 #EXTINF: -1 ,TNT SERIES
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_499712=4.m3u8
 #EXTINF: -1 ,STAR CHANNEL
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_499712=6.m3u8
 #EXTINF: -1 ,CNN
-https://stationtv.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/cnn_hls/track_0_500/playlist.m3u8
 #EXTINF: -1 ,FOX SPORT3
-https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/track_1_500/playlist.m3u8
 
 
 

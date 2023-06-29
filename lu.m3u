@@ -1,71 +1,88 @@
 #EXTM3U.
-#EXTINF: -1 ,UNITEL LA PAZ
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZaX-bXdQ-2jkShS0oo5AdXCpIMs0-jUuoVKO-UGJ7Lou)/dm/3/x7vsfua/d/live-3.m3u8
-#EXTINF: -1 ,UNITEL SANTACRUZ
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-OgtnP13t2rT69AEgfUKGpyT3PSwshYXBT4cgaOiD9g)/dm/3/x7wzxiw/s/live-3.m3u8
-#EXTINF: -1 ,UNITEL COCHABAMBA
-https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNATC2RtqMyP9X1EyizJv-rGcpUOl0IWrIYgeuna2-hH)/dm/3/x7y922d/d/live-3.m3u8
-#EXTINF: -1 ,RED UNO LA PAZ
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh-kduhe0PX972J83cmIPOvPcXOYP0D6c_6kntYhHsLG)/dm/3/x825whp/d/live-2.m3u8
-#EXTINF: -1 ,RED UNO SANTA
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh-kduhe0PX972J83cmIPOvPcXOYP0D6c_6kntYhHsLG)/dm/3/x825whp/d/live-2.m3u8
-#EXTINF: -1 ,RED UNO COCHABAMBA
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh-kduhe0PX972J83cmIPOvPcXOYP0D6c_6kntYhHsLG)/dm/3/x825whp/d/live-2.m3u8
-#EXTINF: -1 ,ATB LA PAZ
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsEIgGePxUuDO80eUnwECeVmSaFbwviJHvQg6qnG5JqE)/dm/3/x84eirw/d/live-3.m3u8
-#EXTINF: -1 ,ATB COCHABAMBA
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v21oLhjPmuXjJF1cPNMS7-XXTYT2fPeFRKUbogrsAnk9)/dm/3/x89sfvo/s/live-1.m3u8
-#EXTINF: -1 ,ATB SANTA CRUZ
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqX43qbNhJSab2qsiW8ODvxiNEXKDvShvrWjKTAjhDQ5)/dm/3/x84t82c/s/live-3.m3u8
-#EXTINF: -1 ,PAT
-https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
-#EXTINF: -1 ,CADENA A
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1647283255.m3u8
-#EXTINF: -1 ,BOLIVISION
-https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF: -1 ,RTP TV
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
 
-#EXTINF: -1 ,HISTORY CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=NiJhP07WTbRnmD3CGwA1rw&expires=1660703698&ip=181.115.167.229
-#EXTINF: -1 ,DISCOVERY CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=fc1bhalQMCIAOAFVFF3PxA&expires=1660704339&ip=181.115.167.229
-#EXTINF: -1 ,NATIONAL GEOGRA
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=v3A4wDenb4GoL-j6xvFGYg&expires=1660704519&ip=181.115.167.229
-#EXTINF: -1 ,DISCOVERY TURBO 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=DRfWOBHgTB4OwI9NY1pkfg&expires=1660704632&ip=181.115.167.229
-#EXTINF: -1 ,DISCOVERY TLC
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=Un7EK9XFZhbhNY3vntJ3gQ&expires=1660704707&ip=181.115.167.229
-#EXTINF: -1 ,HISTORY 2
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=4imlVLf_DJSls9bD6Z2Ntw&expires=1660704876&ip=181.115.167.229
-#EXTINF: -1 , DISCOVERY TREATER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=wEY8bC0jpNHWTwBzO03pRA&expires=1660705127&ip=181.115.167.229
-#EXTINF: -1 ,DISTRITO COMEDIA
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/47_.m3u8?token=3fvpiG9SXrSLD941jzIQ9A&expires=1660705303&ip=181.115.167.229
-#EXTINF: -1 ,FOX SERIES
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=iZ_qrq6hTMnxqz6oys0GpA&expires=1660705586&ip=181.115.167.229
-#EXTINF: -1 ,FOR PREMIUN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/138_.m3u8?token=HOQngKJ6JcR8W-Pmisz91w&expires=1660705698&ip=181.115.167.229
-#EXTINF: -1 ,WARNER TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/341_.m3u8?token=_4TiaVvdokdyMfJCZ0nrUQ&expires=1660705748&ip=181.115.167.229
-#EXTINF: -1 ,WARNER BROS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=uRhQP7kaTJo-SXYo5rVDuQ&expires=1660705983&ip=181.115.167.229
-#EXTINF: -1 ,CARTOON NETWORK 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=5xp89wzbQABwkhPBfIa0KA&expires=1660706049&ip=181.115.167.229
-#EXTINF: -1 ,TNT SERIES
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=nr-VbMS--0bsSwsS-pVeTQ&expires=1660706161&ip=181.115.167.229
-#EXTINF: -1 ,A&E CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=97F5yiY8ErLNSwBfQbW9Nw&expires=1660706353&ip=181.115.167.229
-#EXTINF: -1 ,CNN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/66_.m3u8?token=eJICIcypBH-vLwntvCICLQ&expires=1660706424&ip=181.115.167.229
-#EXTINF: -1 ,FOX SPORT
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=XmWA0pRAHpht_BY11Q15TQ&expires=1660706561&ip=181.115.167.229
-#EXTINF: -1 ,ESPN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=qGKU_IFa3svuaI3PerMA6A&expires=1660706748&ip=181.115.167.229
-#EXTINF: -1 ,AMERICA TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=2IK6A-TDzY5TCw_1uR1mNA&expires=1660706867&ip=181.115.167.229
-#EXTINF: -1 ,AZTECA 7
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=Vrb4p3yd1Dl4ffP07O3RXQ&expires=1660706919&ip=181.115.167.229
-#EXTINF: -1 ,SOUTH PARK
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/146_.m3u8?token=vx0RzrDHxMl2KNxsMcpcPg&expires=1660707148&ip=181.115.167.229
+#EXTINF:-1 ,UNITEL LA PAZ
+https://dai.ly/x7vsfua
+
+#EXTINF:-1 ,UNITEL SANTA CRUZ
+https://dai.ly/x7vsezg
+
+#EXTINF:-1 ,UNITEL GENERAL 
+https://dai.ly/x7wzxiw
+
+#EXTINF: -1 ,UNITEL COCHABAMBA
+https://dai.ly/x7y922d
+
+#EXTINF: -1 ,RED UNO LA PAZ
+https://dai.ly/x828xvr
+
+#EXTINF: -1 ,RED UNO SANTA CRUZ
+https://dai.ly/x825whp
+
+#EXTINF: -1 ,RED UNO COCHABAMBA
+https://dai.ly/x827j2y
+
+#EXTINF: -1 ,ATB TV
+https://dai.ly/x84eirw
+
+#EXTINF: -1 ,PAT
+https://w8.redpat.tv:7777/play/110/index.m3u8
+
+#EXTINF: -1 ,CADENA A
+https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/chunklist_w632525906.m3u8
+
+#EXTINF: -1 ,BOLIVISION
+https://d3eyooyk041snj.cloudfront.net/hls/live.m3u8
+
+#EXTINF: -1 ,RTP TV
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8 
+
+#EXTINF: -1 , UNIVALLE TV
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF: -1  ,F10 TV
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF: -1  , BOLIVIA TV 
+https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785660703.m3u8?
+
+#EXTINF: -1  , TV UNIVERSITARIA
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+
+#EXTINF: -1  , TV UNIVERSITARIA SUCRE
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w288449543_b2128000.m3u8
+
+#EXTINF: -1  , MEGA TV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1820173922.m3u8
+
+#EXTINF: -1  , ERBOL BOLIVIA 
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w749940929.m3u8
+
+#EXTINF: -1  , ATESUR SUCRE
+https://video2.getstreamhosting.com:19360/8032/8032.m3u8
+
+#EXTINF: -1  , TU TV CHAPACA
+
+#EXTINF: -1  , ITV SUCRE 
+
+#EXTINF: -1  , SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF: -1  , MARVISION
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+
+
+
+
+
+#EXTINF: -1  , NOMBRE
+
+tvg-logo="NOMBRE", NOMBRE 
+
+https://URL.M3U
+
+
+
+
+
+
 

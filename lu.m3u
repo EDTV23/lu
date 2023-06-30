@@ -67,7 +67,11 @@ https://video2.getstreamhosting.com:19360/8032/8032.m3u8
 #EXTINF: -1  , SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF: -1  , MARVISION
+#EXTINF: -1  , MARVISION Tevevis 
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+
+#EXTINF: -1  , tvg-name=”MARVISION”tvg-logo=”https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png”
+
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 
 
